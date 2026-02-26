@@ -1,1 +1,98 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>使用者協議 - 賦詩名 (VerseName)</title>
+    <style>
+        body {
+            font-family: "Noto Serif TC", "Microsoft JhengHei", serif;
+            line-height: 1.8;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #fdfcfb;
+        }
+        h1 {
+            color: #8B2C24; /* 硃砂紅 */
+            text-align: center;
+            border-bottom: 2px solid #8B2C24;
+            padding-bottom: 10px;
+        }
+        h2 {
+            color: #555;
+            border-left: 4px solid #8B2C24;
+            padding-left: 10px;
+            margin-top: 30px;
+        }
+        p, li {
+            font-size: 16px;
+            margin-bottom: 10px;
+        }
+        .last-updated {
+            text-align: right;
+            font-size: 14px;
+            color: #888;
+            font-style: italic;
+        }
+        .highlight {
+            background-color: #fff9f0;
+            padding: 15px;
+            border: 1px solid #eee;
+            border-radius: 8px;
+        }
+    </style>
+</head>
+<body>
 
+    <h1>使用者協議 (Terms of Service)</h1>
+    <p class="last-updated">最後更新日期：2026年02月26日</p>
+
+    <p>歡迎使用「賦詩名 (VerseName)」。本協議是您（以下簡稱「使用者」）與賦詩名營運團隊（以下簡稱「我們」）之間關於使用本應用程式及其相關服務的法律約定。在使用本程式前，請務必詳細閱讀以下條款。</p>
+
+    <h2>1. 服務描述</h2>
+    <p>賦詩名是一款基於人工智慧（AI）技術，結合中國傳統文化與詩詞意境提供命名建議、詩歌賞析及文化藝術服務的行動應用程式。具體服務包含但不限於：AI 智能賦名、詩意意境篩選、生辰八字參考及文化珍藏管理。</p>
+
+    <h2>2. 帳戶註冊與安全</h2>
+    <ul>
+        <li>使用者可以訪客身份使用部分功能，或通過 Google 帳號/電子郵件註冊成為正式會員。</li>
+        <li>您有責任保護您的登入憑證與帳戶安全。任何經由您帳戶進行的操作均視為您本人之行為。</li>
+        <li>為確保資料可永久雲端儲存，建議使用者務必進行帳號綁定。</li>
+    </ul>
+
+    <h2>3. 數位內容與購買規範</h2>
+    <div class="highlight">
+        <p><strong>重要聲明：</strong></p>
+        <ul>
+            <li>本程式提供「賦名卡」及「方案升級（經典/雅致/天命）」等付費數位內容。</li>
+            <li>根據《通訊交易解除權合理例外情事適用準則》，本程式所提供之數位內容（如 AI 生成結果、解鎖功能）一經購買並提供後即視為履行完畢，<strong>恕不接受退款要求</strong>。</li>
+            <li>付費內容與您的帳號綁定。若因未綁定帳戶導致更換裝置後資料遺失，我們可能無法協助找回相關權益。</li>
+        </ul>
+    </div>
+
+    <h2>4. 智慧財產權</h2>
+    <ul>
+        <li>由本程式生成的命名建議、解釋文案與詩詞賞析，其著作權之保護受當地法律規範。</li>
+        <li>我們授予使用者將生成的名字用於個人（如嬰兒命名、藝名、品牌名）之非商業或商業用途，但嚴禁對程式本身的代碼、內容數據庫進行逆向工程、非法爬取或大規模翻版。</li>
+    </ul>
+
+    <h2>5. 免責聲明：AI 與文化建議</h2>
+    <ul>
+        <li><strong>非法律或專業依據：</strong>本程式 AI 生成之內容僅供美學參考。命名結果不代表法律上的權益保證。</li>
+        <li><strong>文化多樣性：</strong>AI 生成可能存在誤差或偏好。與生辰八字、姓名學相關之建議僅為文化民俗參考，使用者應諮詢專業人士或根據個人信仰自行判斷，我們不對命名後的運勢或結果承擔連帶責任。</li>
+        <li><strong>服務穩定性：</strong>我們致力於維持服務穩定，但對於因網路、伺服器或不可抗力因素導致的服務中斷，不承擔賠償責任。</li>
+    </ul>
+
+    <h2>6. 隱私權保護</h2>
+    <p>我們非常重視您的個人隱私。關於我們如何收集、使用及保護您的個人資料（如 Email、命名紀錄等），請參閱我們的 <a href="#">《隱私權政策》</a>。</p>
+
+    <h2>7. 協議修改與暫停</h2>
+    <p>我們保留隨時修改本協議條款之權利。重大變更將通過程式內公告通知。若您在條款修改後繼續使用本程式，即視為您同意遵守修訂後的協議。</p>
+
+    <h2>8. 聯絡我們</h2>
+    <p>若您對本協議有任何疑問或反饋，請聯繫：<br>
+    📧 電子郵件：cges124018@gmail.com</p>
+
+</body>
+</html>
