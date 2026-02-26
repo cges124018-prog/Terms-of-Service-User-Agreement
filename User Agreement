@@ -6,93 +6,96 @@
     <title>使用者協議 - 賦詩名 (VerseName)</title>
     <style>
         body {
-            font-family: "Noto Serif TC", "Microsoft JhengHei", serif;
+            font-family: "Noto Serif TC", serif;
             line-height: 1.8;
             color: #333;
-            max-width: 800px;
+            max-width: 850px;
             margin: 0 auto;
-            padding: 40px 20px;
-            background-color: #fdfcfb;
+            padding: 40px 24px;
+            background-color: #FDFCFB; /* 宣紙色 */
         }
         h1 {
             color: #8B2C24; /* 硃砂紅 */
             text-align: center;
-            border-bottom: 2px solid #8B2C24;
-            padding-bottom: 10px;
+            border-bottom: 1px solid #E0D7D0;
+            padding-bottom: 12px;
+            font-size: 24px;
         }
         h2 {
-            color: #555;
+            color: #4A4A4A;
             border-left: 4px solid #8B2C24;
-            padding-left: 10px;
-            margin-top: 30px;
+            padding-left: 12px;
+            margin-top: 32px;
+            font-size: 18px;
         }
         p, li {
-            font-size: 16px;
-            margin-bottom: 10px;
+            font-size: 15px;
+            color: #555;
+            margin-bottom: 12px;
         }
+        ul { padding-left: 20px; }
         .last-updated {
             text-align: right;
-            font-size: 14px;
-            color: #888;
-            font-style: italic;
+            font-size: 13px;
+            color: #999;
+            margin-bottom: 40px;
         }
-        .highlight {
-            background-color: #fff9f0;
-            padding: 15px;
-            border: 1px solid #eee;
-            border-radius: 8px;
+        .notice-box {
+            background-color: #F7F3F0;
+            padding: 16px;
+            border-radius: 12px;
+            border: 1px solid #E8E0D9;
+            margin: 20px 0;
         }
+        strong { color: #333; }
     </style>
 </head>
 <body>
 
     <h1>使用者協議 (Terms of Service)</h1>
-    <p class="last-updated">最後更新日期：2026年02月26日</p>
+    <p class="last-updated">最後更新：2026年2月26日</p>
 
-    <p>歡迎使用「賦詩名 (VerseName)」。本協議是您（以下簡稱「使用者」）與賦詩名營運團隊（以下簡稱「我們」）之間關於使用本應用程式及其相關服務的法律約定。在使用本程式前，請務必詳細閱讀以下條款。</p>
+    <p>感謝您選擇「賦詩名 (VerseName)」。本協議旨在規範您使用本 App 服務時的各項權利與義務。一旦您開始使用本服務，即表示您已閱讀並同意本協議的所有內容。</p>
 
-    <h2>1. 服務描述</h2>
-    <p>賦詩名是一款基於人工智慧（AI）技術，結合中國傳統文化與詩詞意境提供命名建議、詩歌賞析及文化藝術服務的行動應用程式。具體服務包含但不限於：AI 智能賦名、詩意意境篩選、生辰八字參考及文化珍藏管理。</p>
+    <h2>1. 服務簡述</h2>
+    <p>賦詩名是一款結合 AI 技術與古典詩詞的命名輔助工具。我們提供包含：姓名意境解析、詩詞賞析、智能賦名建議等服務。本服務僅供個人文化參考與美學啟發使用。</p>
 
-    <h2>2. 帳戶註冊與安全</h2>
+    <h2>2. 帳號與登入規範</h2>
     <ul>
-        <li>使用者可以訪客身份使用部分功能，或通過 Google 帳號/電子郵件註冊成為正式會員。</li>
-        <li>您有責任保護您的登入憑證與帳戶安全。任何經由您帳戶進行的操作均視為您本人之行為。</li>
-        <li>為確保資料可永久雲端儲存，建議使用者務必進行帳號綁定。</li>
+        <li><strong>登入方式：</strong>目前支援以電子郵件註冊/登入，或以访客身份（匿名）快速使用。</li>
+        <li><strong>資料收集：</strong>為提供雲端同步功能，我們會記錄您的電子郵件與收藏明細。目前未支援 Google 或其他第三方社群帳號登入。</li>
+        <li><strong>安全責任：</strong>使用者應自行妥善保管帳號與密碼，任何經由於該帳戶進行的操作均視為使用者本人行為。</li>
     </ul>
 
-    <h2>3. 數位內容與購買規範</h2>
-    <div class="highlight">
-        <p><strong>重要聲明：</strong></p>
+    <h2>3. 賦名卡與內容解鎖</h2>
+    <div class="notice-box">
+        <p><strong>特別提醒：</strong></p>
         <ul>
-            <li>本程式提供「賦名卡」及「方案升級（經典/雅致/天命）」等付費數位內容。</li>
-            <li>根據《通訊交易解除權合理例外情事適用準則》，本程式所提供之數位內容（如 AI 生成結果、解鎖功能）一經購買並提供後即視為履行完畢，<strong>恕不接受退款要求</strong>。</li>
-            <li>付費內容與您的帳號綁定。若因未綁定帳戶導致更換裝置後資料遺失，我們可能無法協助找回相關權益。</li>
+            <li>本 App 採用「消耗賦名卡」解鎖深度解析之模式，非訂閱制服務。</li>
+            <li>數位產品特性：由於賦名卡解鎖之內容包含即時 AI 生成與專業解析，一經消耗使用即視為服務已履行完畢，<strong>恕不接受任何形式之退費要求</strong>。</li>
+            <li>若您在「未登入（匿名）」狀態下使用，清除 App 快取或更換手機可能導致本地紀錄遺失。</li>
         </ul>
     </div>
 
-    <h2>4. 智慧財產權</h2>
+    <h2>4. 智慧財產與用途限制</h2>
     <ul>
-        <li>由本程式生成的命名建議、解釋文案與詩詞賞析，其著作權之保護受當地法律規範。</li>
-        <li>我們授予使用者將生成的名字用於個人（如嬰兒命名、藝名、品牌名）之非商業或商業用途，但嚴禁對程式本身的代碼、內容數據庫進行逆向工程、非法爬取或大規模翻版。</li>
+        <li>由系統生成之姓名解析與詩意文案，使用者可自由用於個人命名（如嬰兒命名、筆名、公司名）之參考。</li>
+        <li>嚴禁以非法技術手段（如爬蟲、逆向工程）大量獲取本應用程式之資料庫內容。</li>
     </ul>
 
-    <h2>5. 免責聲明：AI 與文化建議</h2>
+    <h2>5. 免責聲明 (核心條款)</h2>
     <ul>
-        <li><strong>非法律或專業依據：</strong>本程式 AI 生成之內容僅供美學參考。命名結果不代表法律上的權益保證。</li>
-        <li><strong>文化多樣性：</strong>AI 生成可能存在誤差或偏好。與生辰八字、姓名學相關之建議僅為文化民俗參考，使用者應諮詢專業人士或根據個人信仰自行判斷，我們不對命名後的運勢或結果承擔連帶責任。</li>
-        <li><strong>服務穩定性：</strong>我們致力於維持服務穩定，但對於因網路、伺服器或不可抗力因素導致的服務中斷，不承擔賠償責任。</li>
+        <li><strong>文化參考性質：</strong>所有命名建議與解析僅代表文化美學觀點。我們不對生成的姓名在現實生活中的法律地位、運勢好壞或人際關係承擔任何責任。</li>
+        <li><strong>AI 生成侷限：</strong>AI 解析可能包含主觀意境，使用者應以個人判斷為主。與民俗學（如八字、姓名學）相關之描述僅供參考，不具備專業醫學、法律或宗教權威性。</li>
+        <li><strong>第三方服務：</strong>本服務依賴於穩定之網路通訊與雲端計算，對於因電信網路故障導致之暫時性服務中斷，我們不承擔補償責任。</li>
     </ul>
 
-    <h2>6. 隱私權保護</h2>
-    <p>我們非常重視您的個人隱私。關於我們如何收集、使用及保護您的個人資料（如 Email、命名紀錄等），請參閱我們的 <a href="#">《隱私權政策》</a>。</p>
+    <h2>6. 條款修訂</h2>
+    <p>我們保留隨時更新本協議內容之權利。重大變更將於 App 內提示。若您繼續使用服務，即代表同意最新修訂之條款。</p>
 
-    <h2>7. 協議修改與暫停</h2>
-    <p>我們保留隨時修改本協議條款之權利。重大變更將通過程式內公告通知。若您在條款修改後繼續使用本程式，即視為您同意遵守修訂後的協議。</p>
-
-    <h2>8. 聯絡我們</h2>
-    <p>若您對本協議有任何疑問或反饋，請聯繫：<br>
-    📧 電子郵件：cges124018@gmail.com</p>
+    <h2>7. 聯絡支持</h2>
+    <p>如有任何疑問或反饋，歡迎來信：<br>
+    📧 <strong>cges124018@gmail.com</strong></p>
 
 </body>
 </html>
